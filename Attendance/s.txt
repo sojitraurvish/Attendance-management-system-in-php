@@ -1,0 +1,5 @@
+[6-9][0-9]{9} contact
+
+name-> patten="[A-Z a-z]"
+
+password ->8 char md5 format ma store karvanu
